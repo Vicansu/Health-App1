@@ -1,10 +1,11 @@
 Flask==2.3.2
 numpy==2.3.3
-opencv-python==4.8.1.78
-dlib==19.24.1
+opencv-python==4.8
+dlib==19.24
 pyttsx3==2.90
-pydub==0.25.1
-librosa==0.10.1
-scipy==1.11.2
+pydub==0.25
+librosa==0.10
+scipy==1.16.2
 soundfile==0.12.1
+
 
