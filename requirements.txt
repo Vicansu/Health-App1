@@ -5,3 +5,4 @@ pydub
 librosa
 gunicorn
 ffmpeg-python
+webrtcvad
